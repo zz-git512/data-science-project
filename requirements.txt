@@ -1,0 +1,5 @@
+pandas
+geoplotlib
+matplotlib
+scipy
+pyglet
